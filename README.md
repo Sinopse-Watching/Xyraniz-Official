@@ -12,4 +12,4 @@ Feel free to contact me via [email](mailto:fyosmart) or Discord (xyraniz_officia
 
 Thanks for visiting my profile!
 
-[Hehe](https://imgur.com/XXcGuiz)
+[![Banner](https://i.imgur.com/XXcGuiz.jpg)](https://github.com/Xyraniz)
