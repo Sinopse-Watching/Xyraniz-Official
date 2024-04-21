@@ -11,3 +11,5 @@ Welcome to my GitHub profile! I'm [Xyraniz], I'm from Mexico, and I've created t
 Feel free to contact me via [email](mailto:fyosmart) or Discord (xyraniz_official)!
 
 Thanks for visiting my profile!
+
+[Hehe](https://cdn.discordapp.com/banners/913129155456016464/e62b82fb5eeb7159d094e06572f74b32.webp?size=2048)
