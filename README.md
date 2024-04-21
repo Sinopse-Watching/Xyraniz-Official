@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**Xyraniz/Xyraniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm [Xyraniz], I'm from Mexico, and I've created this GitHub to help people.
 
-Here are some ideas to get you started:
+## My Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Roblox Scripts](https://github.com/Xyraniz/Roblox-Scripts/tree/main): Repository of scripts for Roblox.
+
+## Contact
+
+Feel free to contact me via [email](mailto:fyosmart) or Discord (xyraniz_official)!
+
+Thanks for visiting my profile!
