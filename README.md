@@ -12,4 +12,4 @@
 
 ¡Gracias por visitar mi perfil!
 
-[![Banner](https://i.imgur.com/XXcGuiz.jpg)](https://github.com/Xyraniz)
+[![Banner](https://imgur.com/IG1Ky5w.png)](https://github.com/Xyraniz)
