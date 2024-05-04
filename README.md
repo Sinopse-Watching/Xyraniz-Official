@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Xyraniz], soy de México, y he creado este GitHub para ayudar a la gente.
+¡Bienvenido a mi perfil de GitHub! Soy [Xyraniz], soy de México, y he creado este GitHub para ayudar a la gente con cosas que necesite.
 
 ## Redes Sociales
 
@@ -13,5 +13,3 @@
 ¡Gracias por visitar mi perfil!
 
 [![Banner](https://i.imgur.com/XXcGuiz.jpg)](https://github.com/Xyraniz)
-
-[Y aquí está mi enlace personalizado para ti](https://guns.lol/xyraniz)
