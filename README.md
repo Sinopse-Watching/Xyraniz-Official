@@ -1,15 +1,17 @@
-# Hello! 👋
+# ¡Hola! 👋
 
-Welcome to my GitHub profile! I'm [Xyraniz], I'm from Mexico, and I've created this GitHub to help people.
+¡Bienvenido a mi perfil de GitHub! Soy [Xyraniz], soy de México, y he creado este GitHub para ayudar a la gente.
 
-## My Featured Project
+## Redes Sociales
 
-- [Roblox Scripts](https://github.com/Xyraniz/Roblox-Scripts/tree/main): Repository of scripts for Roblox.
+- [TreeLinks](https://github.com/Xyraniz/Roblox-Scripts/tree/main)
 
-## Contact
+## Contacto
 
-Feel free to contact me via [email](mailto:fyosmart) or Discord (xyraniz_official)!
+¡No dudes en contactarme por [correo electrónico](mailto:fyosmart) o Discord (xyraniz_official)!
 
-Thanks for visiting my profile!
+¡Gracias por visitar mi perfil!
 
 [![Banner](https://i.imgur.com/XXcGuiz.jpg)](https://github.com/Xyraniz)
+
+[Y aquí está mi enlace personalizado para ti](https://guns.lol/xyraniz)
