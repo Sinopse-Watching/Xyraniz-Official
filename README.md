@@ -4,7 +4,7 @@
 
 ## Redes Sociales
 
-- [TreeLinks](https://github.com/Xyraniz/Roblox-Scripts/tree/main)
+- [TreeLinks](https://guns.lol/xyraniz)
 
 ## Contacto
 
