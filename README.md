@@ -1,15 +1,11 @@
-# ¡Hola! 👋
+# Hello! 👋# Hello! 👋# Hello! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Xyraniz], soy de México, y he creado este GitHub para ayudar a la gente con cosas que necesite.
+Welcome to my GitHub profile! I'm [Xyraniz], I'm from Mexico.
 
-## Redes Sociales
+## Social networks
 
 - [TreeLinks](https://guns.lol/xyraniz)
 
-## Contacto
+Thank you for visiting my profile!
 
-¡No dudes en contactarme por [correo electrónico](mailto:fyosmart) o Discord (xyraniz_official)!
-
-¡Gracias por visitar mi perfil!
-
-[![Banner](https://imgur.com/IG1Ky5w.png)](https://github.com/Xyraniz)
+[![Banner](https://imgur.com
